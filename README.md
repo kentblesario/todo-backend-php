@@ -1,7 +1,7 @@
 ## Todo List API
 ## Details
 Todo List PHP Application Programming Interface
-
+-slightly modified todo backend with php from jamalhassouni / Todo-List-API - for educational purpose
 PHP 7 script that adds a REST API to a MySQL 5.5 InnoDB database
 
 Related projects:
