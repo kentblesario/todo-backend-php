@@ -39,6 +39,7 @@ if ($numUncompleted > 0) {
 } else {
     $output['status'] = 204;
     $output['message'] = 'No Tasks Found';
+    $output['data'] = [];
 }
 // Turn to JSON & output
 echo json_encode($output);
